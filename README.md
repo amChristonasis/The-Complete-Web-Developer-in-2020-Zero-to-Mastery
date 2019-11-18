@@ -1,5 +1,5 @@
 # The-Complete-Web-Developer-in-2020-Zero-to-Matery
 My personal repository with code I write while doing The Complete Web Developer in 2020: Zero to Matery course by Andrei Negaoie on Udemy.
 
-# Section 4 - HTML 5
+## Section 4 - HTML 5
 Very simple two page website showcasing the very basics of HTML 5 tags.
