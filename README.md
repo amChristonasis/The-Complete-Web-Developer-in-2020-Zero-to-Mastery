@@ -3,3 +3,6 @@ My personal repository with code I write while doing The Complete Web Developer 
 
 ## Section 4 - HTML 5
 Very simple two page website showcasing the very basics of HTML 5 tags.
+
+## Section 5 - Advanced HTML
+Added a third page to the simple website with a registration form.
