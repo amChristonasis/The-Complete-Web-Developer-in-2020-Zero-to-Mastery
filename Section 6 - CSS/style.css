@@ -1,0 +1,20 @@
+body {
+	background-image: url(https://images.unsplash.com/photo-1531747118685-ca8fa6e08806?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=942&q=80);
+	background-size: cover;
+}
+
+h2 {
+	color: rgb(24, 6, 58);
+	text-align: center;
+	border: 5px solid rgba(140, 122, 174, 0.5);
+	cursor: pointer;
+}
+
+p {
+	color: rgb(140, 122, 174);
+}
+
+li {
+	list-style: none;
+	display: inline-block;
+}
