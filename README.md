@@ -6,3 +6,6 @@ Very simple two page website showcasing the very basics of HTML 5 tags.
 
 ## Section 5 - Advanced HTML
 Added a third page to the simple website with a registration form.
+
+## Section 6 - CSS
+Examples of Using CSS Selectors on a simple website.
