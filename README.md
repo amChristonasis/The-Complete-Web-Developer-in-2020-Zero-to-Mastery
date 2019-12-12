@@ -9,3 +9,8 @@ Added a third page to the simple website with a registration form.
 
 ## Section 6 - CSS
 Examples of Using CSS Selectors on a simple website.
+
+## Section 7 - Advanced CSS
+Examples of Using Advanced CSS Selectors and Flexbox to code two simple websites:
+  * An Image Gallery
+  * A Robot Animation
