@@ -14,3 +14,5 @@ Examples of Using CSS Selectors on a simple website.
 Examples of Using Advanced CSS Selectors and Flexbox to code two simple websites:
   * An Image Gallery
   * A Robot Animation
+  
+<a href="https://click.linksynergy.com/link?id=o7XJVVZda5Y&offerid=507388.1430746&type=2&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fthe-complete-web-developer-zero-to-mastery%2F"><IMG border=0 src="https://i.udemycdn.com/course/480x270/1430746_2f43_9.jpg" ></a><IMG border=0 width=1 height=1 src="https://ad.linksynergy.com/fs-bin/show?id=o7XJVVZda5Y&bids=507388.1430746&type=2&subid=0" >
